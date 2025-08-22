@@ -26,6 +26,9 @@ You can add, remove, and mark items as packed to keep track of everything you ne
 
 ---
 
+### 📝 Note  
+This project is part of the **React Course by Jonas Schmedtmann**.
+
 ## Purpose
 This project was built to practice **React fundamentals**, including:
 - Component structure  
